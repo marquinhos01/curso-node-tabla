@@ -1,5 +1,6 @@
 # Notas:
-Este es mi primer programa en Node
+Este fue mi primer programa en Node JS. Es un programa que se ejecuta en la consola y se interactua con el mismo desde alli.
+Dada una base y un tope, nos devuelve la tabla desde el 0 hasta el tope.
 ```
 Options:
   --help     Muestra ayuda                         [booleano]  
